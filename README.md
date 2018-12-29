@@ -1,6 +1,4 @@
-<!doctype html>
 <html lang=en>
-  <title>haraldrudell</title>
   <meta charset=utf-8>
-  <h1>es2049options</h1>
+  <a href=https://haraldrudell.github.io/haraldrudell/>Click here to see this project livbe: https://haraldrudell.github.io/haraldrudell/</a>
 </html>
