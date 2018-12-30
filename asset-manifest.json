@@ -1,7 +1,7 @@
 {
-  "main.css": "/haraldrudell/static/css/main.994f24d9.chunk.css",
-  "main.js": "/haraldrudell/static/js/main.a9f19fbf.chunk.js",
-  "main.js.map": "/haraldrudell/static/js/main.a9f19fbf.chunk.js.map",
+  "main.css": "/haraldrudell/static/css/main.6ed7fc86.chunk.css",
+  "main.js": "/haraldrudell/static/js/main.5b6cce3e.chunk.js",
+  "main.js.map": "/haraldrudell/static/js/main.5b6cce3e.chunk.js.map",
   "static/js/1.1d6231ec.chunk.js": "/haraldrudell/static/js/1.1d6231ec.chunk.js",
   "static/js/1.1d6231ec.chunk.js.map": "/haraldrudell/static/js/1.1d6231ec.chunk.js.map",
   "runtime~main.js": "/haraldrudell/static/js/runtime~main.4fd5a8ba.js",
@@ -10,8 +10,8 @@
   "static/media/ECMAScript 2049.png": "/haraldrudell/static/media/ECMAScript 2049.624660d3.png",
   "static/media/logo.svg": "/haraldrudell/static/media/logo.5d5d9eef.svg",
   "static/media/bladeRunner.css": "/haraldrudell/static/media/Blade+Runner.00c8e4b0.ttf",
-  "static/css/main.994f24d9.chunk.css.map": "/haraldrudell/static/css/main.994f24d9.chunk.css.map",
+  "static/css/main.6ed7fc86.chunk.css.map": "/haraldrudell/static/css/main.6ed7fc86.chunk.css.map",
   "index.html": "/haraldrudell/index.html",
-  "precache-manifest.373a2b8131ad30b6f8a2c0198a77f0e2.js": "/haraldrudell/precache-manifest.373a2b8131ad30b6f8a2c0198a77f0e2.js",
+  "precache-manifest.7d6f1e35acf97f62635a2f9e5016ea9f.js": "/haraldrudell/precache-manifest.7d6f1e35acf97f62635a2f9e5016ea9f.js",
   "service-worker.js": "/haraldrudell/service-worker.js"
 }
