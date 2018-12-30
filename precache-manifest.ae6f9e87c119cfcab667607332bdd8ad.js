@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "75d8e1384483d5446655",
+    "revision": "52c6de65a05bffdf99fb",
     "url": "/haraldrudell/static/css/main.994f24d9.chunk.css"
   },
   {
-    "revision": "75d8e1384483d5446655",
-    "url": "/haraldrudell/static/js/main.75d8e138.chunk.js"
+    "revision": "52c6de65a05bffdf99fb",
+    "url": "/haraldrudell/static/js/main.52c6de65.chunk.js"
   },
   {
     "revision": "1d6231ec1ac645977368",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/haraldrudell/static/media/Blade+Runner.00c8e4b0.ttf"
   },
   {
-    "revision": "a713ea26d15a65e016fa72101089e250",
+    "revision": "e6230648fe49398f9da5cc35fbcf040d",
     "url": "/haraldrudell/index.html"
   }
 ];
