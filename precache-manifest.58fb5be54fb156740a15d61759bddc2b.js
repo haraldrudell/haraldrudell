@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "771bc33b621bece89020",
-    "url": "/haraldrudell/static/js/main.771bc33b.chunk.js"
+    "revision": "80af46e82af8022bb45c",
+    "url": "/haraldrudell/static/js/main.80af46e8.chunk.js"
   },
   {
     "revision": "b87e8976e4d0e3915095",
@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/haraldrudell/static/js/runtime~main.4fd5a8ba.js"
   },
   {
-    "revision": "11146cc6499f12b85565925f188b1c41",
+    "revision": "9c43b2ab5416ddefb92c580e898b4ee7",
     "url": "/haraldrudell/index.html"
   }
 ];
