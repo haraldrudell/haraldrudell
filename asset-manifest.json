@@ -1,9 +1,9 @@
 {
-  "main.css": "/haraldrudell/static/css/main.860dbb66.chunk.css",
-  "main.js": "/haraldrudell/static/js/main.e219cf81.chunk.js",
-  "main.js.map": "/haraldrudell/static/js/main.e219cf81.chunk.js.map",
-  "static/js/1.a884db04.chunk.js": "/haraldrudell/static/js/1.a884db04.chunk.js",
-  "static/js/1.a884db04.chunk.js.map": "/haraldrudell/static/js/1.a884db04.chunk.js.map",
+  "main.css": "/haraldrudell/static/css/main.3fed201b.chunk.css",
+  "main.js": "/haraldrudell/static/js/main.aa54d1be.chunk.js",
+  "main.js.map": "/haraldrudell/static/js/main.aa54d1be.chunk.js.map",
+  "static/js/1.9b489e5c.chunk.js": "/haraldrudell/static/js/1.9b489e5c.chunk.js",
+  "static/js/1.9b489e5c.chunk.js.map": "/haraldrudell/static/js/1.9b489e5c.chunk.js.map",
   "runtime~main.js": "/haraldrudell/static/js/runtime~main.4fd5a8ba.js",
   "runtime~main.js.map": "/haraldrudell/static/js/runtime~main.4fd5a8ba.js.map",
   "static/media/logo.svg": "/haraldrudell/static/media/logo.5d5d9eef.svg",
@@ -13,8 +13,8 @@
   "static/media/Node.js_logo.svg": "/haraldrudell/static/media/Node.js_logo.89ccb090.svg",
   "static/media/duke_badge.svg": "/haraldrudell/static/media/duke_badge.91751678.svg",
   "static/media/bladeRunner.css": "/haraldrudell/static/media/Blade+Runner.00c8e4b0.ttf",
-  "static/css/main.860dbb66.chunk.css.map": "/haraldrudell/static/css/main.860dbb66.chunk.css.map",
+  "static/css/main.3fed201b.chunk.css.map": "/haraldrudell/static/css/main.3fed201b.chunk.css.map",
   "index.html": "/haraldrudell/index.html",
-  "precache-manifest.4e48d0996cb0ed1963d1f64dd34a72cc.js": "/haraldrudell/precache-manifest.4e48d0996cb0ed1963d1f64dd34a72cc.js",
+  "precache-manifest.eb244d36b1a5ca64aee492f467825c60.js": "/haraldrudell/precache-manifest.eb244d36b1a5ca64aee492f467825c60.js",
   "service-worker.js": "/haraldrudell/service-worker.js"
 }
